@@ -1,3 +1,3 @@
 # artie
 
-Visit my website here: https://github.com/alisvasilevadesign/artie.git
+Visit my website here: https://alisvasilevadesign.github.io/artie/
